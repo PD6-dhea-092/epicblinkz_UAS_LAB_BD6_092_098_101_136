@@ -1,3 +1,17 @@
+Kelompok 1 
+Anggota :
+1. Dhea Tania Salsabilah Harahap (221401092)
+2. Fico Yanton Jeremia Sibagariang (221401098)
+3. Ivanny Putri Marianto (221401101)
+4. Christian Nathaniel (22140136)
+
+Asisten Laboratoriun : Husein Ibnu Mahmud
+Laboratorium 6 Basis Data
+
+Link Youtube : https://youtu.be/lXTlargCcMc
+Link Hosting : https://blinkzepic.000webhostapp.com/
+
+
 --Halaman Home
 ![Halaman Home](https://github.com/PD6-dhea-092/epicblinkz_UAS_LAB_BD6_092_098_101_136/assets/114650981/5ae0eaee-08c5-479e-aad6-13b75005452b)
 
